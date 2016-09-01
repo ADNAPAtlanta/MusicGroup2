@@ -14,8 +14,8 @@
 - [ ] Apply Spotify colors
 
 ### Project documentation
-https://developer.spotify.com/design-resources/spotify-logo-color-guidelines.pdf
-http://designpieces.com/palette/spotify-color-palette-hex-and-rgb/
+- https://developer.spotify.com/design-resources/spotify-logo-color-guidelines.pdf
+- http://designpieces.com/palette/spotify-color-palette-hex-and-rgb/
 
 ###file locations. @ADNAPAtlanta/design
 place all images (.jpg,.png) with a pull request [here](https://github.com/ADNAPAtlanta/schoolevents2/tree/master/app/src/main/res/drawable)
