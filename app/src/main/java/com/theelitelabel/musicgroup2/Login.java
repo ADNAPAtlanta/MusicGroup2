@@ -18,6 +18,7 @@ import com.spotify.sdk.android.player.Spotify;
 public class Login extends AppCompatActivity implements PlayerNotificationCallback,ConnectionStateCallback{
     private static final int REQUEST_CODE = 1337;
     private Player mPlayer;
+    private static final String REDIRECT_URI = "musicgrouplogin://callback";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -62,6 +63,7 @@ public class Login extends AppCompatActivity implements PlayerNotificationCallba
 
     @Override
     public void onLoggedIn() {
+
 
     }
 
