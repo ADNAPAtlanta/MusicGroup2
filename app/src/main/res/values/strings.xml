@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MusicGroup2</string>
+    <string name="action_settings">Settings</string>
+
+
+
+    <string name="enter_room_number">Enter room number.</string>
+</resources>
